@@ -1,0 +1,18 @@
+/* Arka plan Rengi, font family ve font size*/
+
+body {
+    background-color: #FBFBFB;
+    font-family: "Open Sans", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #3D3BF3;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#madde {
+    padding-bottom: 20px; /* Maddenin alt kısmında 20px boşluk bırak */
+}
